@@ -1,2 +1,2 @@
 # pymotion
-A motion detector for webcams, scripted in Python
+A motion detector for webcams, scripted in Python utilizing the OpenCV library.
